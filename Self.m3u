@@ -1,6 +1,6 @@
 #EXTM3U
 #SOURCEIT
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi",01.BTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangladeshi",01.BTV
 http://103.166.152.22:8080/roarzone/bk/53/tracks-v1a1/mono.m3u8?token=e14408b885c56ad8c75c18a2a8375d435f0c08be-f2c4f4d45a09778a809f4c68c1b90dd5-1765904756-1765893956
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png" group-title="Bangladeshi",02.BTV News
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
