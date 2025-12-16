@@ -1,0 +1,22 @@
+#EXTM3U
+#SOURCEIT
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi",01.BTV
+http://103.166.152.22:8080/roarzone/bk/53/tracks-v1a1/mono.m3u8?token=e14408b885c56ad8c75c18a2a8375d435f0c08be-f2c4f4d45a09778a809f4c68c1b90dd5-1765904756-1765893956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png" group-title="Bangladeshi",02.BTV News
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWhRY33JM7yhLFYaq_adkuM2m4gW6lORYBMQ&s" group-title="Bangladeshi",03.BTV CTG 
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/1200px-Sangsad_Television_Emblem.svg.png" group-title="Bangladeshi",04.Sangsad Tv
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLPAmIp8iHdf1GaKHfwhh0iGslBvJdBToru3j5_ORrL1T1oxpUKEguf2M&s=10" group-title="Bangladeshi",05.ATN Bangla 
+http://103.166.152.22:8080/roarzone/bk/2/index.m3u8?token=c31902be394dce640fa563f41ae07a849b2d38a3-47e887d39ba7f4eb4c2c5a1b97c06919-1765911903-1765901103
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ChanneliBD.png/revision/latest?cb=20200206105403" group-title="Bangladeshi",06.Channel i HD
+http://103.166.152.22:8080/roarzone/bk/6/index.m3u8?token=451285e230b6e6a511d858eefb30db5f219240da-a91035ed8d51f6138b03a085027b905c-1765912071-1765901271
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/2560px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi",07.Ekushey Tv
+http://103.166.152.22:8080/roarzone/bk/65/index.m3u8?token=f7e6628c5a0b45ed977b1b271a83ff042216d6ab-830380eacf21277e36f38c9b4a51b434-1765912222-1765901422
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladeshi",08.NTV
+http://103.166.152.22:8080/roarzone/bk/54/tracks-v1a1/mono.m3u8?token=39aafad7980cd35e9aaa0a21db1400e3891aa49c-e1dc0809c00de56527660f92677ac1bd-1765912398-1765901598
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOH7IEg7_wzfoFOmNPGgIZsm7FcIOQYO_uA&s" group-title="Bangladeshi",09.RTV
+http://103.166.152.22:8080/roarzone/bk/14/index.m3u8?token=f9e9601c3f9dfebd389fc2952621034ea505069c-c3ebf483f2d32cf53574009c68266c24-1765912793-1765901993
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Bangladeshi",10.Boishakhi Tv
+http://103.166.152.22:8080/roarzone/bk/61/index.m3u8?token=1e69ada53ac63095d8b96274fbf615626fe8be07-0b2a375197e94c835d072eb6dfe186b8-1765913362-1765902562
