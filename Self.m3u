@@ -17,7 +17,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladeshi",08.NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOH7IEg7_wzfoFOmNPGgIZsm7FcIOQYO_uA&s" group-title="Bangladeshi",09.RTV
-http://103.166.152.22:8080/roarzone/bk/14/index.m3u8?token=f9e9601c3f9dfebd389fc2952621034ea505069c-c3ebf483f2d32cf53574009c68266c24-1765912793-1765901993
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Bangladeshi",10.Boishakhi Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPkPnpqba1NMWsVXirAN_XmX3VfIgznxRDRQ&s" group-title="Bangladeshi",11.Bangla Vision
@@ -66,12 +66,12 @@ https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1765914367&u=ef3dd85c-c
 http://116.204.149.16/nagorik/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/anandatv.png?v=8.5.8" group-title="Bangladeshi",33.Ananda Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi",34.T Sports
-https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1765913650&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=c0dafe238201b00e5460b3f3bd1466f4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w_-xn4Tlu2Rs-Brb6HDlTL7g_e4NtbLjXg&s" group-title="Bangladeshi",34.T Sports
+https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",35.Nexus Tv
 https://tvsen6.aynascope.net/nexustv/index.m3u8?e=1765913595&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=57064477395b7a29e1a81366194df1c1
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1651985369-10396030.png?v=8.5.8" group-title="Bangladeshi",36.Ekhon Tv
-https://tvsen6.aynascope.net/ekhontv/index.m3u8?e=1765913510&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=fcf81b8ff1e20b1d18339c66a9889d35
+https://tvsen6.aynaott.com/ekhontv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015097-89564682.png?v=8.5.8" group-title="Bangladeshi",37.Global Tv
 https://tvsen6.aynascope.net/globaltvhd/index.m3u8?e=1765913394&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=4a3df2ce1d99c4f60b2916ec8a86aaef
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1683606878-6994272.png?v=8.5.8" group-title="Bangladeshi",38.Green Tv
