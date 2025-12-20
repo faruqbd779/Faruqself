@@ -160,3 +160,53 @@ https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
 http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfepcCpP7vETFgkW10gFDGEGPaxgBUVt2291i9oNYVS7I2y6SUpd6lpLA&s=10" group-title="Bangladeshi",80. Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi18fG6UwtAECo26R_lGmTSN6G9yS5Vp7nM4fvmlR_a7Rl6XHa7-tG_bs&s=10" group-title="Bangladeshi",81. Ten Prime
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThaSYkEDvTEcvHrCnhwFcglj03M5dD9mIZlQ&s" group-title="Bangladeshi",82. Probashi Tv 
+http://158.69.24.53:8080/probashi_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.metvbd.com/media/common/logo-fb.png" group-title="Bangladeshi",83. Me tv
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_ZiamZWLgCV9_VdGdAZRg3GSrZs3zlih4C3MeDbIdA&s=10" group-title="Bangladeshi",84. PCV
+https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQkkafqUDck5WpYADewULSO3Co0ag93EJ6A&s" group-title="Bangladeshi",85. Ruposhi Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4A8HeWoM9ksa1HxTyE64LG-Xulvy2E2If9DAS7J1qqNSBNIMdyZmi_mY&s=10" group-title="Bangladeshi",86. The Channel TV https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ch5.jpg?x71442" group-title="Bangladeshi",87. Channel 5 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA_QuJAjOZdxFOTjCQpzoh0wD10wv6YGnG7g&s" group-title="Bangladeshi",88. Amar Digital  https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS1XwuKcW_t4itnKTHCqEYfpl6wMfJFSXVjc5708kBYEPNvtA4TFKxlLU&s=10" group-title="Bangladeshi",89. Desh Bangla tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSANhAPHo_xl7a32cbllriDlCHnmMj9AQl1tw&s" group-title="Bangladeshi",90.Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuW9dvouH7wAhRbmOBYdeF1pQKKKgWHr5fgBF-nX2HsHGvlorTpXi3-bLv&s=10" group-title="Bangladeshi",91.Dhoom Music Bangla
+https://tvsen6.aynaott.com/dhoom/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ7JQmoBlndB8bj0QJvrS1i9GJKIDUCJZdFA&s" group-title="Bangladeshi",92. Filmy Tv
+http://103.145.48.150:90/laosat24/filmytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAOrcK57f62o-I0TeRayvyv8NRsp-7JrCwKWqA2NpIwGFE-HjRWwUiWs&s=10" group-title="Bangladeshi",93. BHI Channel
+http://15.235.185.236/hls/bhi.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnIJ765PxsKQAzEDOt4h_-Y7nw13mCxALFoJz1zi08eNbUSzUV-sqyVEe&s=10" group-title="Bangladeshi",94. PBN TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/pbntv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTz6tq5hlf05sVP9lFYctlA6CAvRK6epuhmw-9i1X0kmbaRoApSWMKNKY&s=10" group-title="Bangladeshi",95. Toroni24 TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/toronitv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZVMhzvnaqpQ5hXAEQ4a-FBjc_XVyETNXpg80Wsme_A&s" group-title="Bangladeshi",96. ZB Cinema 
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZVMhzvnaqpQ5hXAEQ4a-FBjc_XVyETNXpg80Wsme_A&s" group-title="Bangladeshi",97. ZB Music 
+https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8bVKOmrJHSG5EqYIjOtrsrZEDJ_J24ql9A&s" group-title="Bangladeshi",98. Orange Bangla TV https://cdn-4.pishow.tv/live/1499/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5ycb3SlVRF_N7CXxcDC3iouhOOI7UV02cgNA0vCbhsQEPkTZrS_RbCs&s=10" group-title="Bangladeshi",99. US-BD Journal 24 TV http://208.86.19.13:81/510.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzvjU3enJPbphfOR5mDQJ8f1ae7B1WiBffzuwmz-fDNFTAyfCd1JJC6s&s" group-title="Bangladeshi",100. Enter TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/entertv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1gb9iNbJ11vUV1fAwDGANgSv3hs0qwK1nRpgK1jaOdUHf8yugYDEj4Fo&s=10" group-title="Bangladeshi",101. Noborup TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/noboruptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS45k3Y4aZep5OdvU6n2OgLRv_Zs_mfQEdQiAe-HiqpS0YxWr-bhYk0CJI&s=10" group-title="Bangladeshi",102. Amar Bangla 
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTghW0CV2fLsOhtmRJ6gdyoal_Qq45wQ7VSWabHdZX2zwHRs4-qpKs7cc&s=10" group-title="Bangladeshi",103. Jankhar TV
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bp30dKb7J4SOVaRVTo76MT7UsRwWSVILBORN_NOERGkhyeMeYeCWdv4&s=10" group-title="Bangladeshi",104. Toffee Sports
+https://allottplay.com/tv/toffee/live.php?id=icc_wtc_final&e=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bp30dKb7J4SOVaRVTo76MT7UsRwWSVILBORN_NOERGkhyeMeYeCWdv4&s=10" group-title="Bangladeshi",105. Toffee Drama https://allottplay.com/tv/toffee/live.php?id=toffee_drama&e=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bp30dKb7J4SOVaRVTo76MT7UsRwWSVILBORN_NOERGkhyeMeYeCWdv4&s=10" group-title="Bangladeshi",106. Toffee Movie 
+https://allottplay.com/tv/toffee/live.php?id=toffee_movie&e=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfYKzjEZlnRgl7wD3oWkEAE4TT1F0tEFSZNYdjlErJoF2MPatA-jYDapFP&s=10" group-title="Bangladeshi",108. Hi dosti
+https://cdn-1.pishow.tv/live/224/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPTEGf69BSw7L9artVP5r-01mkqL9Eo6wS7yW-Js_6CRZQ-MTLRBgP9MSW&s=10" group-title="Bangladeshi",109. SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
