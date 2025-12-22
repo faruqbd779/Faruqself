@@ -312,3 +312,56 @@ https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiXOcYgEsnSkDWDH_2-BiqIw1fhvaFEm4NuDNN152VyA&s=10" group-title="Sports",155. Geo Super
 http://66.102.120.18:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/2560px-TNT_Sports_%282023%29.svg.png" group-title="Sports",156.  TNT Sports 1
+http://178.33.239.54:8080/509/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports",157. TNT Sports 2
+http://178.33.239.54:8080/510/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_8RQE49umXULt1pTKGm5pvD7mIIZ6D_GuBg&s" group-title="Sports",158. TNT Sports 3
+http://178.33.239.54:8080/511/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsPGFMG64E0v86Nqm7DheefFbE3Nx1ZS4Aww&s" group-title="Sports",159. TNT Sports 4
+http://filex.me:8080/live/MAS101A/MAS101AABB/495261.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGevPgJfVPS22rGFbubBIpVDwdjv19UH-Yec06gMwk75k27E_CysDm8Lt0&s=10" group-title="Sports",160. Real Madrid Tv 
+http://filex.me:8080/live/MAS101A/MAS101AABB/293007.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports",161. beIN sports 1
+http://178.33.239.54:8080/512/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZxmsJ6MygT1sty_iGPdOoC3VIxWLrfWcgw&s" group-title="Sports",162. beIN sports 2
+http://178.33.239.54:8080/513/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshEJRSr7B8KdYFY119B1vMrL1uREd4M3SKLhhJpv4_A&s=10" group-title="Sports",163. Sky Sports Premier League
+http://178.33.239.54:8080/506/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yuOrpSVGRKutAXbrto0Jwrr5ybReyM01NFdmF8ipWGzWdP27Nv0jGcCeirh4qvOynkItrQK3KyQ=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",164. Sky Sports DARTS
+http://178.33.239.54:8080/508/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/250px-Tennis_Channel_logo.svg.png" group-title="Sports",165. Tannis Channel
+http://filex.me:8080/live/MAS101A/MAS101AABB/291652.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ANSIrZwj4cg8RTgx0W1oJ01CserReFpeezzF-77aNQ&s=10" group-title="Sports",166. Sky Sports Golf
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19132/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TEv4E1RVKAHG75txRRY-K7kboCVdDGvJydwBmfqH9A&s=10" group-title="Sports",167. KSA Sports 1 
+http://66.102.120.18:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XBiCy8p6kYE1EzCLDV6W0HFIN2og1mheEHU_8JZS_g&s" group-title="Sports", KSA Sports 2 
+http://66.102.120.18:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8La3Hxh07HBykgg14OA8G_kWX5vW7bqIhk3n8LWfAHA&s=10" group-title="Sports",168. EuroSports 1
+http://dvr2.kablova.tv/Eurosport_1/mpegts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-gjuOqCEN4cHksofu1UljoCmQyfYGjZI5_MhqatD&s=10" group-title="Sports",169. EuroSports 2
+http://dvr2.kablova.tv/Eurosport_2/mpegts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0rBskfhVrJwcvMaWSEHlJ6StDmJwa9lOpvm7XzrIdA&s=10" group-title="Sports",170. NBA Tv
+https://ww.dooballfree.vip/live/nba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgkhL3oV9fiQNvoWI7CbB9FtLCKlUFl_LXK5mmwfw0w&s=10" group-title="Sports",171. Golf+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NXcpeeoQF3y-XNYxw42xqikS7FJVC_fcP8FWHUBoL-PWhd6FCG9Jox60lPjZTTvpTzZxio76Og=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",172. Sky Sports Cricket
+http://193.35.224.219/638353/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQad82RySdLMlbOCZCQ_Im_1gL38fOzsm4fw9rUFcxN1A&s=10" group-title="Sports",173. DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgA-OqRP_me-lwMJ5Yr7wDSHie1XjTFraMGNM8zcvlDpq2k_3RVgH4o4yV&s=10" group-title="Sports",174. Oman Sports
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS-Rc7HHjvMXa4IPw18isOa9e4D7IjoxV59gmDAcAOdw&s=10" group-title="Sports",175. Astro Cricket HD
+http://filex.me:8080/live/MAS101A/MAS101AABB/303500.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuxzV9m1R78UDq0Jh3zJS7LEPRnYDvWbXMRAG98A2uQ&s=10" group-title="Sports",176. Super Sports Cricket
+http://filex.me:8080/live/MAS101A/MAS101AABB/53044.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="Sports",177. SKY Sports MAIN Event
+http://filex.me:8080/live/MAS101A/MAS101AABB/495254.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAphv2BUU_l3jRufCdBLM9vAvspC4La6yAfoMgJQKuA&s=10" group-title="Sports",178. Sky Sports Mix
+http://filex.me:8080/live/MAS101A/MAS101AABB/495255.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/G7z4YBDXcrq58akIZ1fZlHi6wkuDwPUOJyvO-gQcoRg9y1A825phdUuTY7wXIF2bzaj3wG11Wbc=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",179. Sky Sports Football
+http://filex.me:8080/live/MAS101A/MAS101AABB/290377.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXB2P0vG5Q-_R7RUxpp_maA6SO3P-jkeQpLiIzbmhHQ&s=10" group-title="Sports",180. Super Sports Football
+http://filex.me:8080/live/MAS101A/MAS101AABB/290354.ts
+
