@@ -362,3 +362,85 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/290377.ts
 http://filex.me:8080/live/MAS101A/MAS101AABB/290354.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0rBskfhVrJwcvMaWSEHlJ6StDmJwa9lOpvm7XzrIdA&s=10" group-title="Sports",181. NBA Tv
 https://ww.dooballfree.vip/live/nba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsx6PJ3RUPwS6AZ6N9c-u7prUxXTxf8ufGg&s" group-title="Sports",182. ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy4spg4KYfLjoF1oVLwvSIYcMxgvrwMHYWzGBDIKNTe5906TlAmKBL0AlD&s=10" group-title="Sports",183. Xtrem Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-CBDkq04w36_He5lLvyCAf54xxYuwZiVe1OdzWjk2KfdrhAZQKonjO2M&s=10" group-title="Sports",184. Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGgyy8mdqmtiM-xDFo-hduigWpRZAcLfuKyGARFRJue1N4jhMGcr1tHIy7&s=10" group-title="Sports",185. Persiana Sports 1
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGgyy8mdqmtiM-xDFo-hduigWpRZAcLfuKyGARFRJue1N4jhMGcr1tHIy7&s=10" group-title="Sports",186. Persiana Sports 2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144011" group-title="Sports",187. Sky Sports 1 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/150854.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1951065414118539266/9Go2oZlV.jpg" group-title="Sports",188. Sky Sports Tenich
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/428098.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcngJ7IOYasJehQE3wuunxC7nSR0MUKAlwsarr66oNQ&s=10" group-title="Sports",189. Super Sports Laliga https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/157941.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhZ3Yt_6y7dzDc6u2i5XXlv04cKAPFoKzM_b3UXXYcA&s=10" group-title="Sports",190. Supersport blitz
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/157955.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROYRhOh_35IX_1ffTvHcnmBtc3gnUmDBrBDeg5AZCQ9A&s=10" group-title="Sports",191. WW
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/157970.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbHGjy6RvoevIlbF2TMR2sgf0wg-m0xvvIRw&s" group-title="Sports",192. Redbull Tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Discover_Pakistan_Logo.png/1200px-Discover_Pakistan_Logo.png" group-title="Information",193. Discover Pakistan TV
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png" group-title="Information",194. Discovery Asia HD
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Information",195. Discovery
+http://87.255.35.150:18220
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cyWjRr2NYQkGTIz5yQrxGV6HmOHX8MGDqYGUTcet3xKOEqgF8Hhpqgg&s=10" group-title="Information",196. Discovery Science
+https://allottplay.com/tv/toffee/live.php?id=discovery_science&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Information",197. Discovery Turbo
+https://allottplay.com/tv/toffee/live.php?id=discovery_turbo&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Investigation_Discovery_Logo_2018.svg" group-title="Information",198. Discovery Investigation
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo_o_vsPvU5Sa2uiisfLuuHidX5PQnc_W3Fw&s" group-title="Information",199. Discovery Family
+http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMqeR0kJQjUULbsOWrSFnwVZqHPLNTz3Gepw&s" group-title="Information",200. Discovery Life
+http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GvABuq5ua25YY4Y4R5qzENlf3RpMEiz0bA&s" group-title="Information",201. TLC
+https://allottplay.com/tv/toffee/live.php?id=tlc_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5FcbVxagO9-gqhZ3tlZ2L4IOpd7XF-_UGiQ&s" group-title="Information",202. HGTV
+https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5eYoacRxuvd_puhnKOK6rTwPJ-BIriTLE3w&s" group-title="Information",203. Food Network
+https://tvsen6.aynaott.com/foodnetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Information",204. Travel Channel
+https://tvsen6.aynaott.com/travelxp/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ241d0SbBoaf4KBcTTH71GjgWncmYtuyjoxA&s" group-title="Information",205. Travel XP
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3g0cehUXZ2zNEGUkyojIhwDZheQTEea-Pw&s" group-title="Information",206. InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS6SZNLWjWcvxNOxQ3Naid6KSoNdfGXbXRsiU-CRxRDptjSOvjflhFLjc&s=10" group-title="Information",206. 4K Travel
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLhy4gbHLwX3Vre0E9IBUHB3oNPWh1GZy4m9DScJ5A-Q&s=10" group-title="Information",207. Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Information",208. Animal Plane 
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_Earth.svg" group-title="Information",109. BBC Earth
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fraDnSPKR72OIovbPXlXMZNK6kUM-cdpTQ&s" group-title="Information",210. Sony BBC Earth
+https://allottplay.com/tv/toffee/live.php?id=sonybbc_earth_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-vBSEQS6lsaFU2CxoqJl4mEn3f8VBl6Do0Mae3c6muBXPYTHAgfrpjng&s=10" group-title="Information",211. History TV 18
+http://119.152.240.15:8000/play/a0bj/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWnMkH9iO1MosKoMIMVQ-m6QN7q7Xj-VfKtA&s" group-title="Information",212. National Geographic Hhttp://66.102.120.18:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWnMkH9iO1MosKoMIMVQ-m6QN7q7Xj-VfKtA&s" group-title="Information",213. National Geographic
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlVKPoZSIEhlGX-o3vcJ6ctBTg5f6swAWIA&s" group-title="Information",214. Nat Geo Wild 
+http://lb53.xxip9.top:25461/live/michellebrath@hotmail.com/dmNeFwzj6v/11664.ts?token=ThFcUhFaQQwRUVMGBVMGUwACAQZVBgMDVldXAQFVAwpRAwcEUVABBQIQHkdBQURQV1g7WFQWCgNSVFUHFRFGQVBBa1oGEFkUAgUEVQUFFBkUQQ1cVRYKA1RUVQEKCwcHAx8WQwtWQQwRAARcBQ0UGRRQHEVVRl5TDz0HVk9aUFcXCVpGDl5PFFxcbQFXWFdbUhdeEwAWHBAKERMRA11GXlkfFlELRhFXR1cQXxAABAQHF0gTU1tFXBcQGhEDEXF2Fx8WVhpGBlhAW10LEA8UQUUXSBNZR29ABhEXQVxSXldHEQ4RUhBPFF5TSjpRWlhbU1YQWF9aQxBZQFERFRFeXVtaQFwQbRNfVxAIRwMAAAACFxk=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlVKPoZSIEhlGX-o3vcJ6ctBTg5f6swAWIA&s" group-title="Information",215. Nat Geo Wild
+http://143.244.60.30/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfDr_asm-pFc7gjSLevHeIoalpU-sOs6LdA&s" group-title="Information",216. CGTN Documentary
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyBXC5vWn9_-y_iuA_QfDpiGycdat04YlBfWQA1Ckf0mSmVdsK_WXni3w7&s=10" group-title="Information",217. Wild Nature
+https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
+#EXTINF:-1 tvg-logo="https://www.wildearth.com.au/assets/wild-earth-logo.png" group-title="Information",218. Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-03_53_45-PM-1-200x300.png" group-title="Information",219. Wild Flix
+https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaVXpW-R9qxLYsqX4lLfm1slnRU1v3GNRge93XEaPgfCZobxYC7avviRE&s" group-title="Information",220. Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/ehorot.png" group-title="Information",221. Drone Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNgXKyueqy6tXqsNApqtzPomlzDxSUsy8T7g&s" group-title="Information", 220. Epic Hindi
+https://epiconvh.akamaized.net/live/epic/master.m3u8
