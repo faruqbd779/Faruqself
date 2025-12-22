@@ -216,26 +216,24 @@ https://allottplay.com/tv/toffee/live.php?id=toffee_movie&e=.m3u8
 https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPTEGf69BSw7L9artVP5r-01mkqL9Eo6wS7yW-Js_6CRZQ-MTLRBgP9MSW&s=10" group-title="Bangladeshi",108. SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://maxbangla.tv/wp-content/uploads/2025/04/max-bangla-logo-final-bangla-.png" group-title="Sports",108. MAX BANGLA Tv
+#EXTINF:-1 tvg-logo="https://maxbangla.tv/wp-content/uploads/2025/04/max-bangla-logo-final-bangla-.png" group-title="Bangladeshi",109. MAX BANGLA Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/maxbangla.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1ap8OAmKXlkBZ5VYiUstIstLiCYHmAtlcA&s" group-title="Sports",109. Star Sports 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1ap8OAmKXlkBZ5VYiUstIstLiCYHmAtlcA&s" group-title="Sports",110. Star Sports 1
 http://103.182.170.32:8888/play/a040
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuypzBEShURvsEbSXvJLqyquE3wIgDiam-V8TuBrExGdktfNg6_dgxlQN5&s=10" group-title="Sports",110. Star Sports 1 Hindi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuypzBEShURvsEbSXvJLqyquE3wIgDiam-V8TuBrExGdktfNg6_dgxlQN5&s=10" group-title="Sports",111. Star Sports 1 Hindi
 https://starsportshindiii.pages.dev/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCz2u9C8F2h59OS0N4fqHx1Fko5ijDCIqvLg&s" group-title="Sports",111. Star Sports 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCz2u9C8F2h59OS0N4fqHx1Fko5ijDCIqvLg&s" group-title="Sports",112. Star Sports 2
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabmRm0nnQj41DP5gsr9LEP-3YINhPQDwcFQ&s" group-title="Sports",112. Star Sports Select 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabmRm0nnQj41DP5gsr9LEP-3YINhPQDwcFQ&s" group-title="Sports",113. Star Sports Select 1
 https://tvsen6.aynaott.com/spsel1/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2B6RYJ47s0pe5w7coS3uR5WvPZNwHOB9unYLrQbQHRA&s=10" group-title="Sports",113. Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2B6RYJ47s0pe5w7coS3uR5WvPZNwHOB9unYLrQbQHRA&s=10" group-title="Sports",114. Star Sports Select 2
 https://tvsen7.aynaott.com/ssps2hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaIoW7bnnTxBEWIsJCBVRrYqFuKEPC9zjlhV8HwIkZ2Q&s=10" group-title="Sports",114. Ten Sports 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaIoW7bnnTxBEWIsJCBVRrYqFuKEPC9zjlhV8HwIkZ2Q&s=10" group-title="Sports",115. Ten Sports 1
 http://filex.me:8080/live/MAS101A/MAS101AABB/247155.ts
-#EXTINF:-1 tvg-logo="https://s3.ap-southeast-1.amazonaws.com/dlg.dialog.lk/s3fs-public/2023-03/66-Sony-Sports-2.png" group-title="Sports",115. Ten Sports 2
+#EXTINF:-1 tvg-logo="https://s3.ap-southeast-1.amazonaws.com/dlg.dialog.lk/s3fs-public/2023-03/66-Sony-Sports-2.png" group-title="Sports",116. Ten Sports 2
 http://filex.me:8080/live/MAS101A/MAS101AABB/247156.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3qpk7KSvHgenc3Ni1yVzXJ_hwPWD7Ohq7cA0ibeIPA&s=10" group-title="Sports",116. Ten Sports 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3qpk7KSvHgenc3Ni1yVzXJ_hwPWD7Ohq7cA0ibeIPA&s=10" group-title="Sports",117. Ten Sports 3
 http://filex.me:8080/live/MAS101A/MAS101AABB/247157.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOg7XJgkbcwv-1olJdGic-4dSbhQbBVELFJsEhKXgXIg&s=10" group-title="Sports",117. Ten Sports 4
-http://filex.me:8080/live/MAS101A/MAS101AABB/247158.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCiY50VcT8dLmm2ubr2y1ZNeVqLQ2tmLrGe2JT7npRg&s=10" group-title="Sports",118. Ten Sports 5
 http://filex.me:8080/live/MAS101A/MAS101AABB/247158.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3aN0ryLiLSNAhrnn3MnXSPTtEOKGRhKVRJdp_qligKbpjnkRXmTjD_M&s=10" group-title="Sports",119. Ten cricket
@@ -336,14 +334,12 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/291652.ts
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19132/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TEv4E1RVKAHG75txRRY-K7kboCVdDGvJydwBmfqH9A&s=10" group-title="Sports",167. KSA Sports 1 
 http://66.102.120.18:8000/play/a03o/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XBiCy8p6kYE1EzCLDV6W0HFIN2og1mheEHU_8JZS_g&s" group-title="Sports", KSA Sports 2 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XBiCy8p6kYE1EzCLDV6W0HFIN2og1mheEHU_8JZS_g&s" group-title="Sports",168 KSA Sports 2 
 http://66.102.120.18:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8La3Hxh07HBykgg14OA8G_kWX5vW7bqIhk3n8LWfAHA&s=10" group-title="Sports",168. EuroSports 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8La3Hxh07HBykgg14OA8G_kWX5vW7bqIhk3n8LWfAHA&s=10" group-title="Sports",169. EuroSports 1
 http://dvr2.kablova.tv/Eurosport_1/mpegts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-gjuOqCEN4cHksofu1UljoCmQyfYGjZI5_MhqatD&s=10" group-title="Sports",169. EuroSports 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-gjuOqCEN4cHksofu1UljoCmQyfYGjZI5_MhqatD&s=10" group-title="Sports",170. EuroSports 2
 http://dvr2.kablova.tv/Eurosport_2/mpegts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0rBskfhVrJwcvMaWSEHlJ6StDmJwa9lOpvm7XzrIdA&s=10" group-title="Sports",170. NBA Tv
-https://ww.dooballfree.vip/live/nba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgkhL3oV9fiQNvoWI7CbB9FtLCKlUFl_LXK5mmwfw0w&s=10" group-title="Sports",171. Golf+
 http://151.80.18.177:86/GOLF+_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NXcpeeoQF3y-XNYxw42xqikS7FJVC_fcP8FWHUBoL-PWhd6FCG9Jox60lPjZTTvpTzZxio76Og=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",172. Sky Sports Cricket
@@ -364,4 +360,5 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/495255.ts
 http://filex.me:8080/live/MAS101A/MAS101AABB/290377.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXB2P0vG5Q-_R7RUxpp_maA6SO3P-jkeQpLiIzbmhHQ&s=10" group-title="Sports",180. Super Sports Football
 http://filex.me:8080/live/MAS101A/MAS101AABB/290354.ts
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0rBskfhVrJwcvMaWSEHlJ6StDmJwa9lOpvm7XzrIdA&s=10" group-title="Sports",181. NBA Tv
+https://ww.dooballfree.vip/live/nba/playlist.m3u8
