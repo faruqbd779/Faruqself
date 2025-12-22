@@ -292,8 +292,8 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png" group-title="Sports",146. Willow HD
 https://tvsen5.aynaott.com/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWsYt1IwmNmNf67RfcIgcHMReavr_-mbYR-NQLEUYjA&s=10" group-title="Sports",147. FANCODE
-https://bd-mc-fdlive.fancode.com/mumbai/138295_english_hls_35bd7ab90585502_1adfreeta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrt2P6wCTuMxWWn2VmqBtlJn7xX8FbwxWZL81Lg4xEzQ&s=10" group-title="Sports",147. Astro Football
+http://51.89.166.17:3002/index.php?id=go_assp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG6g_-1GFPF05kTnjNxcAiXVq5a3sHvfgNQ5JAG2ArQ&s=10" group-title="Sports",148. Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMHlatxgusNAPJ7CmQfD9AYqeeB7wYEEJqjMoFCoqqQ&s=10" group-title="Sports",149. Horse & Country
@@ -349,7 +349,7 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgA-OqRP_me-lwMJ5Yr7wDSHie1XjTFraMGNM8zcvlDpq2k_3RVgH4o4yV&s=10" group-title="Sports",174. Oman Sports
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS-Rc7HHjvMXa4IPw18isOa9e4D7IjoxV59gmDAcAOdw&s=10" group-title="Sports",175. Astro Cricket HD
-http://filex.me:8080/live/MAS101A/MAS101AABB/303500.ts
+http://51.89.166.17:3002/index.php?id=Acricket
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuxzV9m1R78UDq0Jh3zJS7LEPRnYDvWbXMRAG98A2uQ&s=10" group-title="Sports",176. Super Sports Cricket
 http://filex.me:8080/live/MAS101A/MAS101AABB/53044.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="Sports",177. SKY Sports MAIN Event
