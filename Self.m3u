@@ -446,3 +446,53 @@ https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNgXKyueqy6tXqsNApqtzPomlzDxSUsy8T7g&s" group-title="Information", 223. Epic Hindi
 https://epiconvh.akamaized.net/live/epic/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1iYOb7Ln2Klz08zFtt33ruoXVlc-2TlyqWA&s" group-title="Information",224. TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="Entertainment",225. America's Got Talent https://d2mexh8isep4mf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wp08v1ibrni4i/AmericasGotTalent_GB.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbXUrIZ_PDCy0q_rRawf1MgqyOr13Vu2bxsQ&s" group-title="Music",226. American Idol https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2mt12zhezzrsh/AmericanIdol_GB.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj5nvPLKZ_uI4hJjbf3fQMm25fdPSmeVpl5A&s" group-title="Information",227. Antiques Road Trip
+https://d3v8uchko88gmi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9435fptcvdedz/PBSART_GB.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAp0xFQ_v-0awWWKaz0BX5CXtQgXdybyd9Q&s" group-title="Information",228. BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tint.creativemarket.com/d5sptUIKek6gVQ64iguJW4f3ne4dJEYdRMQXrSlXoPk/width:1200/height:800/gravity:nowe/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzEwNjcvMTA2NzMvMTA2NzM2NTMvY29vay1iYWtlLWZvb2QtbG9nb3MtMTUtby5qcGc?1627197943" group-title="Information",229. Cook & Bake
+https://cc-swbj49v56imaw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/OTM/OTM_Cooking-SCTE_SAMSUNG/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmzRagpKbV90yVhhpzxbF1dl_7bel8DLkwA&s" group-title="Information",230. America Crime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65492fc7056b9700088560b5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a780-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ce66776-1850-472a-aae6-67709c1b0532
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsFJGPBxVfje8L-colOhGZ5SHF5iMNOWOTT85s27KreA&s=10" group-title="Information",231. Food Network
+http://filex.me:8080/live/MAS101A/MAS101AABB/890089.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFoQCW1rvLCceguVhBStjiMYTM7LzmwLnwzPSsVnDFRKMieBVaZ7gFkE&s=10" group-title="Information",232. Food Food
+http://filex.me:8080/live/MAS101A/MAS101AABB/495596.ts
+#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/" group-title="Information",233. INFAST
+https://d30jgtzu0azlqq.cloudfront.net/playlist/samsungus-insighttv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDbVkJl6IwE18IsWla8mOg2CZG6LLr7x0zg&s" group-title="Information",234. Love the Planet
+https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/American_Forces_Network_logo.png" group-title="Music",235. AFN TV https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmnrfWuv--DPuYdZDucQCsIwSpJQ2xQ7x0w&s" group-title="Music",236. M+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIGO4C_Sd0tExrm7D0jOaejZyKo4W7OoV4kWFS_GJvqQ&s=10" group-title="Music",237. Majid Al Mohandi
+https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr61VbfMRgjyyueIqOJ__zo6pRDtrI9RpVppaC6NAv5R1AVOhLcMeQSW2Exr7xf_67L7sF9AWNTM87eMWKKnh1V1vaF90290U4_6_G1g&s=10" group-title="Music",238. Ary Muzik
+http://66.102.120.18:8000/play/a036
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZsrUdduO4Z3f-HFgFuic4mrvW2ox9sFEXQ&s" group-title="Music",239. Jalwa Tv
+http://66.102.120.18:8000/play/a052
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFUG6XWnrsaSlHZlEheqx_2tgE3IA1RLchvyswApHc1A&s=10" group-title="Pakistani",240. Geo HD 
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a062
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lt2jwFpTYjusceAsLlIE0B312SEUb4A4Du-rbN8n_STCg=s900-c-k-c0x00ffffff-no-rj" group-title="Pakistani",241. Geo Kahani
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a064
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5nTiccn5jWE8ZC50M3T6L8gj-G988BVpTYw&s" group-title="Pakistani",242. Geo Taz News 
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a05o
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw5g2kV7sM0YJf5a6IgJbkQlh22udpqQeyFyq8AyOXug&s=10" group-title="Pakistani",243. Geo News 
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a05w
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgsoFUv5LuD0oBA8YhmQXlmFHBrLF22lbwQ&s" group-title="Pakistani",244. Ary Digital
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a030
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/3/3/3/333721437245ccc832fb7b906272d47f_icon.png" group-title="Pakistani",245. ARY Zindagi http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a031
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ybLt_LzpD8s7W_UDGCc4A-Jm7r5SxqnlNk2bLI6c3JahEnaN1gUnXwVFnljrc8u8BHo" group-title="Pakistani",246. Ary News
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a02z
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXyDEIq4gg3ljhT0Mw4MlJUOirUea63Q64Q&s" group-title="Pakistani",247. PTV Home
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a04r
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png" group-title="Pakistani",248. PTV News
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a04s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1qIxrgiAwxaFRKYBumlNVbzoGV69oiqGaK4CUf4OgEWGcvJDcDStC2Xk&s=10" group-title="Pakistani",249. PTV World
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a04t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-giiZ7zmYyH8uwllMW2oGEHo6X83ZGkNtqu78qdPUw&s=10" group-title="Pakistani",250. PTV National
+http://filex.me:8080/live/MAS101A/MAS101AABB/246619.ts
