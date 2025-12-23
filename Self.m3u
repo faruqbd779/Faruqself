@@ -389,8 +389,7 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png" group-title="Information",194. Discovery Asia HD
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Information",195. Discovery
-http://87.255.35.150:18220
-
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a01k
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cyWjRr2NYQkGTIz5yQrxGV6HmOHX8MGDqYGUTcet3xKOEqgF8Hhpqgg&s=10" group-title="Information",196. Discovery Science
 https://allottplay.com/tv/toffee/live.php?id=discovery_science&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Information",197. Discovery Turbo
