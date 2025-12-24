@@ -496,3 +496,64 @@ http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a04s
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a04t
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-giiZ7zmYyH8uwllMW2oGEHo6X83ZGkNtqu78qdPUw&s=10" group-title="Pakistani",250. PTV National
 http://filex.me:8080/live/MAS101A/MAS101AABB/246619.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ625VZhE0NPB6E7UJjK93hPGlTPnmoisRePA&s" group-title="Pakistani",251. Hum HD 
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a06c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Hum_Sitaray_Logo.png" group-title="Pakistani",252. HUM Sitaray
+http://filex.me:8080/live/MAS101A/MAS101AABB/110058.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IA0stCTLJn0FZRYYEzin68yIwzZ9zwYfxz9V5MX0hES3FWjUftiIAY4GWPOKcn83w0basU72=s900-c-k-c0x00ffffff-no-rj" group-title="Pakistani",253. HUM Masala
+http://filex.me:8080/live/MAS101A/MAS101AABB/246597.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBeLFOpP7m1Qt9B7bBYabe-a6IIAMXLHic7xMPFzsN-kERk6_1CCeFH1o&s=10" group-title="Pakistani",254. HUM Pashto
+http://filex.me:8080/live/MAS101A/MAS101AABB/246602.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLIPUfUe6elLNq3yC7PHmuargSssQUJV5tA&s" group-title="Pakistani",255. HUM News
+http://filex.me:8080/live/MAS101A/MAS101AABB/246980.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPnNdEz0yndjBedRVyeG1KPB-Y0YZ7kB1ZQ&s" group-title="Pakistani",256. Bol Entertainment
+http://filex.me:8080/live/MAS101A/MAS101AABB/246591.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GZK25efr6mRNplo4gdw0PG77qFOvRMZDjA&s" group-title="Pakistani",257. Bol News
+http://filex.me:8080/live/MAS101A/MAS101AABB/246974.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX1aifeIuGAhD5AxtQD3up14ewVY0qbXD1SQ&s" group-title="Pakistani",258. Green TV
+http://filex.me:8080/live/MAS101A/MAS101AABB/110094.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnEw-fCdgY3QisSbCtOnQ1Aa0FgY8QY2ryg&s" group-title="Pakistani",259. AAN TV
+http://filex.me:8080/live/MAS101A/MAS101AABB/246584.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgTyeJoXsm9WjjtnKrqfzsCr4XxfPtVPNlW-rKUvMWBGTAWTnehP0CN3Q&s=10" group-title="Pakistani",260. Mun tv
+http://filex.me:8080/live/MAS101A/MAS101AABB/110079.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ctk6EQgOWqQxQpFgRjpH4DRQEWIu9foywKZ_ErEEdNXkn0-uX6nonfo&s=10" group-title="Pakistani",261. Express Entertainment
+http://filex.me:8080/live/MAS101A/MAS101AABB/110047.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90hr2UNde0ol_w3mEnT1JLKJbyCFxf7l1b8Mlf0_sOoQv_lC5sTtpIDBe&s=10" group-title="Pakistani",262. AAJ Entertainment
+http://filex.me:8080/live/MAS101A/MAS101AABB/246586.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9PghmTEp2xuHyQsSwOSuNNViSCXgkcuAKqkRMRxsMcA&s=10" group-title="Pakistani",263. AAJ News
+http://filex.me:8080/live/MAS101A/MAS101AABB/246586.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistani",264. 92 News
+http://filex.me:8080/live/MAS101A/MAS101AABB/246995.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8owvcE1kl4GZORyJBCSCFlu6XmJqxGxn-dg&s" group-title="Pakistani",265. Express News
+http://filex.me:8080/live/MAS101A/MAS101AABB/52039.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLclf78xIZSnAt_iLdL2WjbPuL3MGZKwIdlYHDio0PeRzVUE1FfM7JYE1s&s=10" group-title="Pakistani",266. A-Plus
+http://filex.me:8080/live/MAS101A/MAS101AABB/246587.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" group-title="Pakistani",267. Dunya News
+http://filex.me:8080/live/MAS101A/MAS101AABB/246973.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsdRYMdQp1riFO2c-quxI6O0ku345BXiTI4A&s" group-title="Pakistani",268. DAWN NEWS
+http://filex.me:8080/live/MAS101A/MAS101AABB/246993.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9lhvVzCBMk9vkKuohhYDQ9EcCO1w40mWq1mATuOIng&s=10" group-title="Pakistani",269. AUR LIVE
+http://filex.me:8080/live/MAS101A/MAS101AABB/110091.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEAhmzjYQddFfJXyIz5fpi6CgCbPcNYxx85UJcHjUG1mCKnyIIaPKptg&s=10" group-title="Pakistani",270. Sindh TV
+http://filex.me:8080/live/MAS101A/MAS101AABB/110090.ts
+#EXTINF:-1 tvg-logo="https://khybernetwork.com/wp-content/uploads/2025/01/khyebr-tv-Logo.png" group-title="Pakistani",271. Khyber TV
+http://filex.me:8080/live/MAS101A/MAS101AABB/246600.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMAL4O7VvUjKvX99ua3kCusT6uvOjTGvMCkJ8XhBBHNg&s=10" group-title="Pakistani",272. Khyber NEWS
+http://filex.me:8080/live/MAS101A/MAS101AABB/246981.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_4x1MumQ4kauiNHyk4zsmduTvXI_Har8HZD3pcGfPQ&s=10" group-title="Pakistani",273. Samaa NEWS
+http://filex.me:8080/live/MAS101A/MAS101AABB/52045.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l_OtL7hx23HAh4sLCulRWKXd0VdYHhCV7Ov-eCRL_vKd4=s900-c-k-c0x00ffffff-no-rj" group-title="Pakistani",274. Lahore NEWS
+http://filex.me:8080/live/MAS101A/MAS101AABB/52056.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/shutterstock/photos/634359707/display_1500/stock-photo-pakistani-music-earphones-means-pakistan-songs-d-illustration-634359707.jpg" group-title="Pakistani",275. Pakistani Music
+http://filex.me:8080/live/MAS101A/MAS101AABB/507602.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/shutterstock/photos/634359707/display_1500/stock-photo-pakistani-music-earphones-means-pakistan-songs-d-illustration-634359707.jpg" group-title="Pakistani",276. Pakistani Music 2
+http://filex.me:8080/live/MAS101A/MAS101AABB/507624.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0p6z3kOBR2kgTOT4gUeXniJri0QlaRyu8g&s" group-title="Pakistani",277. ATV
+http://filex.me:8080/live/MAS101A/MAS101AABB/246625.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7SFiBGzqgCoBya7HWDF-_BW6rjXY2Ezcag&s" group-title="Pakistani",278. KAY TV 2
+http://filex.me:8080/live/MAS101A/MAS101AABB/246599.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ6m3i2wwAAU7AgAlLKGCj3C832HfExtkQNQ&s" group-title="Pakistani",279. 8xm
+http://filex.me:8080/live/MAS101A/MAS101AABB/501194.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnlnIAgiU5F2wk49AFRxfGNjOGJnT-lyuNQ&s" group-title="Pakistani",280. MTV
+http://filex.me:8080/live/MAS101A/MAS101AABB/246680.ts
