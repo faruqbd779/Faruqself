@@ -555,9 +555,59 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/507624.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0p6z3kOBR2kgTOT4gUeXniJri0QlaRyu8g&s" group-title="Pakistani",277. ATV
 http://filex.me:8080/live/MAS101A/MAS101AABB/246625.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7SFiBGzqgCoBya7HWDF-_BW6rjXY2Ezcag&s" group-title="Pakistani",278. KAY TV 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7SFiBGzqgCoBya7HWDF-_BW6rjXY2Ezcag&s" group-title="Music",278. KAY TV 2
 http://filex.me:8080/live/MAS101A/MAS101AABB/246599.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ6m3i2wwAAU7AgAlLKGCj3C832HfExtkQNQ&s" group-title="Pakistani",279. 8xm
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ6m3i2wwAAU7AgAlLKGCj3C832HfExtkQNQ&s" group-title="Music",279. 8xm
 http://filex.me:8080/live/MAS101A/MAS101AABB/501194.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnlnIAgiU5F2wk49AFRxfGNjOGJnT-lyuNQ&s" group-title="Pakistani",280. MTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnlnIAgiU5F2wk49AFRxfGNjOGJnT-lyuNQ&s" group-title="Music",280. MTV
 http://filex.me:8080/live/MAS101A/MAS101AABB/246680.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaiPA7PULrsAquukM5fFLU-qdiwhhFLi3jcA&s" group-title="International News",281. ABC News 
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2eGB47dEs7OMC3x82T0vcStU2NtSJ-EG7g&s" group-title="International News",282. Al Jazeera
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="International News",283. BBC News
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Bloomberg-Logo.png" group-title="International News",284. Bloomberg
+https://f56779ab.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9CbG9vbWJlcmdPcmlnaW5hbHNfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6D0W3YRCNMXsY3_1ZEEBzC-qK2jXWtS7qhQ&s" group-title="International News",285. CGTN
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-logo="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/vuphdwqrruacvgmt6fwj?ik-sanitizeSvg=true" group-title="International News",286. CBS NEWS 
+https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/c87b9890-5ca5-45d9-ba8f-25f4f1c6f57f:TPE/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5TVeYh3zb3Lq-b8ncxvr0HvSEa_KWswkwA&s" group-title="International News",287. CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn7HpS0Zimz3ioA1td5EG9Fd8twXMKHx9eYA&s" group-title="International News",288. CNBC
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01079-nbcuukfast-cnbcuk-samsunggb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQGmVV11-GCRT3e3hlFAGiOWpES3_tbcrbuA&s" group-title="International News",289. CNN USA
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBiTxukL5AUUkH3nCHRcQ9oElpACWdwuii1w&s" group-title="International News",290. CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="International News",291. DW NEWS 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="International News",292. FOX News
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrtAbflemvDkznMpt4ILd5cruaC2goiy5Ow&s" group-title="International News",293. France 24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Global_News_%282022%29.svg" group-title="International News",294. Global News (USA)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.unitedagainstnucleariran.com/sites/default/files/inline-images/PressTV%20Logo.png" group-title="International News",295.Press Tv (Iran)
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaJ99bdXDnXAci0eK_qbFto9jthrDu3HTku_Zltx4pQ&s" group-title="International News",296. RT News
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/2560px-Sky_News_logo.svg.png" group-title="International News",297. Sky News
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TRT_World_Radio_logo.svg/2560px-TRT_World_Radio_logo.svg.png" group-title="International News",298. TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnqWm1k0s3bWLeTjLJxtTOfjZe3c8Yo9VqPK7jnSOwrA&s" group-title="International News",299. Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPOhkWJfkm-FcT4agmxooYSDpQbvXjMkbygX7ELFiIag&s=10" group-title="International News",300. NHK World
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/148289.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/AccuWeather_2019_stacked.svg/revision/latest?cb=20230807180255" group-title="International News",301. ACCU WEATHER
+https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/ts-us-w2-n1/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbUhxxVU7mBiE8BfN-0-R1oUoZDeIa1DnCZg&s" group-title="International News",302. FOX Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Sky_News_Weather_Channel_Logo.jpg" group-title="International News",303. Sky Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_g4UE5MXlFQpZ23-FGQ_hniiifTXiHtr6-n-aeDHjhVTAtGfySLcB-mY&s=10" group-title="International News",304. WEATHER SPY
+https://eab55cb96c3d436a99afc4c6f9e27252.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_WeatherSpy/playlist.m
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCq7uGW1_fSKjs7SVLxWOBkK7Q69BGxIXMw&s" group-title="International News",305. Weather Nation
+http://filex.me:8080/live/MAS101A/MAS101AABB/291101.ts
