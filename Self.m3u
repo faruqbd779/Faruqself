@@ -448,8 +448,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://epiconvh.akamaized.net/live/epic/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1iYOb7Ln2Klz08zFtt33ruoXVlc-2TlyqWA&s" group-title="Information",224. TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="Entertainment",225. America's Got Talent https://d2mexh8isep4mf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wp08v1ibrni4i/AmericasGotTalent_GB.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbXUrIZ_PDCy0q_rRawf1MgqyOr13Vu2bxsQ&s" group-title="Music",226. American Idol https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2mt12zhezzrsh/AmericanIdol_GB.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="Entertainment",225. America's Got Talent
+https://d2mexh8isep4mf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wp08v1ibrni4i/AmericasGotTalent_GB.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbXUrIZ_PDCy0q_rRawf1MgqyOr13Vu2bxsQ&s" group-title="Music",226. American Idol
+https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2mt12zhezzrsh/AmericanIdol_GB.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj5nvPLKZ_uI4hJjbf3fQMm25fdPSmeVpl5A&s" group-title="Information",227. Antiques Road Trip
 https://d3v8uchko88gmi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9435fptcvdedz/PBSART_GB.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAp0xFQ_v-0awWWKaz0BX5CXtQgXdybyd9Q&s" group-title="Information",228. BBC America
@@ -466,7 +468,8 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/495596.ts
 https://d30jgtzu0azlqq.cloudfront.net/playlist/samsungus-insighttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDbVkJl6IwE18IsWla8mOg2CZG6LLr7x0zg&s" group-title="Information",234. Love the Planet
 https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/American_Forces_Network_logo.png" group-title="Music",235. AFN TV https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/American_Forces_Network_logo.png" group-title="Music",235. AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmnrfWuv--DPuYdZDucQCsIwSpJQ2xQ7x0w&s" group-title="Music",236. M+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIGO4C_Sd0tExrm7D0jOaejZyKo4W7OoV4kWFS_GJvqQ&s=10" group-title="Music",237. Majid Al Mohandi
@@ -485,7 +488,8 @@ http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a05o
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a05w
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgsoFUv5LuD0oBA8YhmQXlmFHBrLF22lbwQ&s" group-title="Pakistani",244. Ary Digital
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a030
-#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/3/3/3/333721437245ccc832fb7b906272d47f_icon.png" group-title="Pakistani",245. ARY Zindagi http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a031
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/3/3/3/333721437245ccc832fb7b906272d47f_icon.png" group-title="Pakistani",245. ARY Zindagi
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a031
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ybLt_LzpD8s7W_UDGCc4A-Jm7r5SxqnlNk2bLI6c3JahEnaN1gUnXwVFnljrc8u8BHo" group-title="Pakistani",246. Ary News
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a02z
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXyDEIq4gg3ljhT0Mw4MlJUOirUea63Q64Q&s" group-title="Pakistani",247. PTV Home
