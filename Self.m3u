@@ -608,6 +608,6 @@ https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Sky_News_Weather_Channel_Logo.jpg" group-title="International News",303. Sky Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_g4UE5MXlFQpZ23-FGQ_hniiifTXiHtr6-n-aeDHjhVTAtGfySLcB-mY&s=10" group-title="International News",304. WEATHER SPY
-https://eab55cb96c3d436a99afc4c6f9e27252.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_WeatherSpy/playlist.m
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCq7uGW1_fSKjs7SVLxWOBkK7Q69BGxIXMw&s" group-title="International News",305. Weather Nation
 http://filex.me:8080/live/MAS101A/MAS101AABB/291101.ts
