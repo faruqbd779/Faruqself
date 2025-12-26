@@ -46,9 +46,9 @@ https://tvsen6.aynaott.com/channel9/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/1200px-Logo_of_GTV_%28Bangladesh%29.svg.png" group-title="Bangladeshi",22. Gazi Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/4a/%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/1200px-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangladeshi",23. Ekattor Tv
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/ekattortv.png?v=8.5.8" group-title="Bangladeshi",23. Ekattor Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangladeshi",24. Asian Tv
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/asiantv.png?v=8.5.8" group-title="Bangladeshi",24. Asian Tv
 https://tvsen6.aynaott.com/asiantv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1oP52fEOQ7D8LMI9pfkZTcXCCFYFVslcw4i5JKF4ptZk6tWtxhggJtJ5A&s=10" group-title="Bangladeshi",25. SATV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
@@ -170,19 +170,19 @@ http://158.69.24.53:8080/probashi_tv/index.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_ZiamZWLgCV9_VdGdAZRg3GSrZs3zlih4C3MeDbIdA&s=10" group-title="Bangladeshi",84. PCV
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQkkafqUDck5WpYADewULSO3Co0ag93EJ6A&s" group-title="Bangladeshi",85. Ruposhi Bangla TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1666684545-72479469.png?v=8.5.8" group-title="Indian Bangla",85. Sony Aath
+http://starshare.cx:80/live/naeem008/naeem018/4083.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4A8HeWoM9ksa1HxTyE64LG-Xulvy2E2If9DAS7J1qqNSBNIMdyZmi_mY&s=10" group-title="Bangladeshi",86. The Channel TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ch5.jpg?x71442" group-title="Bangladeshi",87. Channel 5 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA_QuJAjOZdxFOTjCQpzoh0wD10wv6YGnG7g&s" group-title="Bangladeshi",88. Amar Digital
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA_QuJAjOZdxFOTjCQpzoh0wD10wv6YGnG7g&s" group-title="Indian Bangla",88. Amar Digital
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/colorsbangla.png?v=8.5.8" group-title="Indian Bangla",89. Colors Bangla
 http://starshare.cx:80/live/naeem008/naeem018/98882.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSANhAPHo_xl7a32cbllriDlCHnmMj9AQl1tw&s" group-title="Bangladeshi",90.Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSANhAPHo_xl7a32cbllriDlCHnmMj9AQl1tw&s" group-title="Indian Bangla",90.Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuW9dvouH7wAhRbmOBYdeF1pQKKKgWHr5fgBF-nX2HsHGvlorTpXi3-bLv&s=10" group-title="Bangladeshi",91.Dhoom Music Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuW9dvouH7wAhRbmOBYdeF1pQKKKgWHr5fgBF-nX2HsHGvlorTpXi3-bLv&s=10" group-title="Indian Bangla",91.Dhoom Music Bangla
 https://tvsen6.aynaott.com/dhoom/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/jalshamovies.png?v=8.5.8" group-title="Indian Bangla",92. Star Jalsha Movie
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1458372
@@ -192,19 +192,19 @@ http://15.235.185.236/hls/bhi.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/pbntv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTz6tq5hlf05sVP9lFYctlA6CAvRK6epuhmw-9i1X0kmbaRoApSWMKNKY&s=10" group-title="Bangladeshi",95. Toroni24 TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/toronitv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZVMhzvnaqpQ5hXAEQ4a-FBjc_XVyETNXpg80Wsme_A&s" group-title="Bangladeshi",96. ZB Cinema 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZVMhzvnaqpQ5hXAEQ4a-FBjc_XVyETNXpg80Wsme_A&s" group-title="Indian Bangla",96. ZB Cinema 
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZVMhzvnaqpQ5hXAEQ4a-FBjc_XVyETNXpg80Wsme_A&s" group-title="Bangladeshi",97. ZB Music 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZVMhzvnaqpQ5hXAEQ4a-FBjc_XVyETNXpg80Wsme_A&s" group-title="Indian Bangla",97. ZB Music 
 https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8bVKOmrJHSG5EqYIjOtrsrZEDJ_J24ql9A&s" group-title="Bangladeshi",98. Orange Bangla TV
-https://cdn-4.pishow.tv/live/1499/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1716889747-88330695.png?v=8.5.8" group-title="Indian Bangla",98. Colors Bangla Cinema
+http://filex.me:8080/live/MAS101A/MAS101AABB/522609.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5ycb3SlVRF_N7CXxcDC3iouhOOI7UV02cgNA0vCbhsQEPkTZrS_RbCs&s=10" group-title="Bangladeshi",99. US-BD Journal 24 TV
 http://208.86.19.13:81/510.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzvjU3enJPbphfOR5mDQJ8f1ae7B1WiBffzuwmz-fDNFTAyfCd1JJC6s&s" group-title="Bangladeshi",100. Enter TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/entertv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1gb9iNbJ11vUV1fAwDGANgSv3hs0qwK1nRpgK1jaOdUHf8yugYDEj4Fo&s=10" group-title="Bangladeshi",101. Noborup TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/noboruptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS45k3Y4aZep5OdvU6n2OgLRv_Zs_mfQEdQiAe-HiqpS0YxWr-bhYk0CJI&s=10" group-title="Bangladeshi",102. Amar Bangla 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS45k3Y4aZep5OdvU6n2OgLRv_Zs_mfQEdQiAe-HiqpS0YxWr-bhYk0CJI&s=10" group-title="Indian Bangla",102. Amar Bangla 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1750067959-21698999.png?v=8.5.8" group-title="Indian Bangla",103. Z Bangla
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/112571
